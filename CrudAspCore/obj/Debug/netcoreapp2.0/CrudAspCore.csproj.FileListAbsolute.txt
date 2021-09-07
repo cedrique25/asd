@@ -1,0 +1,38 @@
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.deps.json
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.runtimeconfig.json
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.runtimeconfig.dev.json
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.dll
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.pdb
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.csprojResolveAssemblyReference.cache
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.AssemblyInfoInputs.cache
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.AssemblyInfo.cs
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.dll
+C:\Users\ABC\source\repos\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.pdb
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.deps.json
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.runtimeconfig.json
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.runtimeconfig.dev.json
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.dll
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.pdb
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.csprojResolveAssemblyReference.cache
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.csproj.CoreCompileInputs.cache
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.AssemblyInfoInputs.cache
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.AssemblyInfo.cs
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.dll
+D:\My Blogger Content\Asp.net Core Projects\CrudAspCore\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.pdb
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.deps.json
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.runtimeconfig.json
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.runtimeconfig.dev.json
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.dll
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\bin\Debug\netcoreapp2.0\CrudAspCore.pdb
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.csproj.AssemblyReference.cache
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.AssemblyInfoInputs.cache
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.AssemblyInfo.cs
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.csproj.CoreCompileInputs.cache
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.dll
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.pdb
+C:\Users\Cedie\Desktop\New folder (4)\CrudAspCore\obj\Debug\netcoreapp2.0\CrudAspCore.genruntimeconfig.cache
